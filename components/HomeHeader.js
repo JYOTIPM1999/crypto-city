@@ -14,7 +14,7 @@ const HomeHeader = ({ onSearch }) => {
         <Image
           source={assets.logo}
           resizeMode="contain"
-          style={{ width: 90, height: 25 }}
+          style={{ width: 120, height: 75 }}
         />
         <View style={{ height: 45, width: 45 }}>
           <Image
@@ -43,7 +43,7 @@ const HomeHeader = ({ onSearch }) => {
             color: COLORS.white,
           }}
         >
-          Hello, Gullu gaal 👋
+          Hello, Jyoti Prakash 👋
         </Text>
         <Text
           style={{
@@ -53,7 +53,7 @@ const HomeHeader = ({ onSearch }) => {
             marginTop: SIZES.base / 2,
           }}
         >
-          give me your gaal🤤
+          Wanna try our crypto city🏙️
         </Text>
       </View>
 
