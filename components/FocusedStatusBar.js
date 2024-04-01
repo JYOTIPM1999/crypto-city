@@ -1,4 +1,5 @@
 import { useIsFocused } from "@react-navigation/native";
+// import { useIsFocused } from "@react-navigation/core";
 import { StatusBar } from "react-native";
 
 const FocusedStatusBar = (props) => {
