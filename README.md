@@ -17,11 +17,6 @@ This is a React-Native UI/UX project. Technologies used to build this project ar
 
 ![searchbar](https://res.cloudinary.com/dehubjbqm/image/upload/v1711980558/Screenshot_20240401_192943_cfaxdi.jpg)
 
-#### Fill details error
-
-
-![Fill Error](https://res.cloudinary.com/dehubjbqm/image/upload/v1680689225/Fill_jglg3i.png)
-
 
 #### Details page
 
