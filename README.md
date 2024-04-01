@@ -4,37 +4,7 @@
 This is a React-Native UI/UX project. Technologies used to build this project are React-Native and Inline CSS.
 
 
-## Various Screens
-
- - [Homepage/ Landing page]()
- - [Details page/ Submission page](https://travelopia.vercel.app/details)
-
-
-## API Reference
-
-#### Get all items
-
-```http
-  GET /api/
-```
-
-| Parameter | Type     | Description                |
-| :-------- | :------- | :------------------------- |
-| `/getData` | `string` | **Required**. https://travelopia-29rz.onrender.com/traveller/getData |
-
-#### Post items
-
-```http
-  POST /api/
-```
-
-| Parameter | Type     | Description                       |
-| :-------- | :------- | :-------------------------------- |
-| `/register`      | `string` | **Required**. https://travelopia-29rz.onrender.com/traveller/register |
-
-
-
-## Glimps of Travelopia web app
+## Glimps of Crypto City
 
 #### Home page
 
